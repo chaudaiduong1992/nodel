@@ -1,0 +1,22 @@
+Country Name,ISO Code,Region,Estimated CPC (USD)
+India,IN,South Asia,0.002
+Bangladesh,BD,South Asia,0.0025
+Pakistan,PK,South Asia,0.0025
+Nepal,NP,South Asia,0.002
+Sri Lanka,LK,South Asia,0.003
+Philippines,PH,Southeast Asia,0.004
+Indonesia,ID,Southeast Asia,0.004
+Vietnam,VN,Southeast Asia,0.0045
+Cambodia,KH,Southeast Asia,0.004
+Laos,LA,Southeast Asia,0.004
+Nigeria,NG,Africa,0.003
+Kenya,KE,Africa,0.0035
+Ghana,GH,Africa,0.003
+Egypt,EG,Africa,0.0035
+Morocco,MA,Africa,0.0035
+Tunisia,TN,Africa,0.0035
+Colombia,CO,South America,0.005
+Peru,PE,South America,0.005
+Bolivia,BO,South America,0.005
+Ukraine,UA,Europe,0.006
+Turkey,TR,Middle East,0.006
