@@ -1,0 +1,448 @@
+# TẠO MỘT GỢI Ý ĐIỆN ẢNH CHO MỘT CẢNH ĐỘC NHẤT
+
+Nhiệm vụ của bạn:
+
+Tạo một gợi ý hình ảnh mang tính điện ảnh cao.
+
+Mục đích của các prompt này:
+
+- tạo storyboard điện ảnh
+- tạo hình ảnh bằng AI
+- trực quan hóa trailer
+- minh họa cao trào cảm xúc
+- duy trì tính liên tục của cảnh quay điện ảnh
+- tái tạo nhân vật với độ nhất quán cực cao
+- duy trì tính nhất quán hình ảnh.
+
+Các prompt PHẢI duy trì sự nhất quán gần như tuyệt đối của nhân vật trong TẤT CẢ các cảnh và TẤT CẢ các lần tạo.
+
+---
+
+# MỤC TIÊU CỐT LÕI
+
+Tạo các hình ảnh mẫu chính cho video.
+
+Hình ảnh phải thể hiện:
+
+- cao trào cảm xúc
+- thời điểm căng thẳng nhất
+- khoảnh khắc kể chuyện bằng hình ảnh mạnh mẽ nhất
+- bước ngoặt không thể đảo ngược
+- hệ quả về mặt cảm xúc
+- sự bất ổn trong mối quan hệ
+- áp lực từ sự thật bị che giấu
+- sự leo thang mang tính điện ảnh
+
+Hình ảnh phải mang lại cảm giác:
+
+- khung hình điện ảnh của Netflix
+- ảnh tĩnh phim chính kịch của HBO
+- nhiếp ảnh điện ảnh kinh phí lớn
+- kể chuyện bằng hình ảnh giàu cảm xúc
+- bầu không khí điện ảnh chân thực
+- tính hiện thực hình ảnh vững chắc
+- một vũ trụ hình ảnh nhất quán
+
+---
+
+# QUY TẮC TUYỆT ĐỐI VỀ TÍNH NHẤT QUÁN CỦA NHÂN VẬT
+
+Tính nhất quán của nhân vật là ƯU TIÊN CAO NHẤT.
+
+Đối với MỌI nhân vật xuất hiện nhiều lần, LUÔN giữ nguyên:
+
+- độ tuổi chính xác
+- dân tộc
+- hình dáng khuôn mặt
+- đường viền hàm
+- hình dáng đôi mắt
+- màu mắt
+- cấu trúc mũi
+- hình dáng môi
+- tông màu da
+- kiểu tóc
+- kết cấu tóc
+- màu tóc
+- vóc dáng cơ thể
+- tư thế
+- phong cách chuyển động
+- logic trang phục đặc trưng
+- phụ kiện
+- sẹo
+- trang sức
+- phong cách trang điểm
+- thần thái cảm xúc
+- diện mạo văn hóa
+- bản sắc hình ảnh
+
+Các nhân vật PHẢI giữ nguyên diện mạo giống hệt nhau trong TẤT CẢ các prompt.
+
+Không bao giờ thiết kế lại nhân vật.
+
+Không bao giờ thay đổi:
+
+- chủng tộc
+- diện mạo theo độ tuổi
+- cấu trúc khuôn mặt
+- bản sắc kiểu tóc
+- tỷ lệ cơ thể
+- bản sắc phong cách thời trang đặc trưng
+
+Chỉ những yếu tố sau mới được phép thay đổi:
+
+- biểu cảm cảm xúc
+- quần áo bị hư hỏng
+- bụi bẩn
+- vết máu
+- mồ hôi
+- ánh sáng
+- mức độ căng trong tư thế
+- sự kiệt sức
+- chấn thương thể chất
+
+---
+
+# QUY TẮC KHAI BÁO LẠI ĐẦY ĐỦ NHÂN VẬT
+
+Mỗi prompt cho từng khung hình PHẢI mô tả lại đầy đủ TẤT CẢ các nhân vật xuất hiện.
+
+Không bao giờ tóm tắt nhân vật.
+
+Không bao giờ rút gọn mô tả.
+
+Không bao giờ sử dụng:
+
+- cùng một người
+- cùng một nhân vật
+- cùng một diện mạo
+- trang phục không thay đổi
+- như trước
+
+Mỗi prompt hình ảnh phải hoạt động độc lập.
+
+Giả định rằng:
+
+- không tồn tại bộ nhớ giữa các lần tạo
+- các hình ảnh được tạo riêng biệt
+- không có hình ảnh tham chiếu
+
+Do đó:
+
+MỌI prompt PHẢI tái tạo đầy đủ TẤT CẢ các nhân vật xuất hiện ngay từ đầu.
+
+---
+
+# MỨC ĐỘ CHI TIẾT BẮT BUỘC CHO NHÂN VẬT
+
+Đối với MỌI nhân vật xuất hiện, LUÔN bao gồm:
+
+- họ và tên đầy đủ
+- độ tuổi chính xác
+- giới tính
+- dân tộc
+- chiều cao
+- vóc dáng cơ thể
+- hình dáng khuôn mặt
+- đường viền hàm
+- cấu trúc gò má
+- hình dáng đôi mắt
+- màu mắt
+- kiểu lông mày
+- cấu trúc mũi
+- đôi môi
+- tông màu da
+- kiểu tóc
+- kết cấu tóc
+- màu tóc
+- phong cách trang điểm
+- râu nếu có
+- sẹo
+- tàn nhang
+- tư thế
+- biểu cảm cảm xúc
+- độ căng của bàn tay
+- dấu hiệu của nhịp thở
+- trang phục
+- kết cấu chất liệu vải
+- hư hỏng của trang phục nếu có
+- phụ kiện
+- trang sức
+- đồng hồ
+- giày dép
+- tình trạng thể chất
+- mức độ kiệt quệ về cảm xúc
+
+---
+
+# ĐIỂM NHẬN DIỆN BẢN SẮC NHÂN VẬT
+
+Mọi nhân vật xuất hiện nhiều lần PHẢI có các điểm nhận diện hình ảnh lặp lại.
+
+Ví dụ:
+
+- đôi bông tai đặc trưng
+- chiếc áo khoác đặc trưng
+- kiểu tóc đặc trưng
+- tư thế đặc trưng
+- sự kìm nén cảm xúc đặc trưng
+- bảng màu đặc trưng
+
+Các điểm nhận diện này PHẢI được lặp lại một cách nhất quán trong TẤT CẢ các prompt.
+
+---
+
+# TÍNH LIÊN TỤC CỦA TRẠNG THÁI NHÂN VẬT
+
+Những hệ quả nhìn thấy được từ các cảnh trước PHẢI được duy trì.
+
+Ví dụ:
+
+- tóc ướt vẫn phải tiếp tục ướt
+- vết máu vẫn phải còn nhìn thấy
+- tay áo bị rách vẫn phải tiếp tục bị rách
+- vết bầm tím vẫn tồn tại
+- lớp trang điểm bị xuống cấp vẫn được giữ nguyên
+- sự kiệt quệ về cảm xúc tiếp tục tích lũy
+- các chấn thương phát triển một cách thực tế
+
+Không được đặt lại trạng thái hình ảnh.
+
+Không được đặt lại trạng thái cảm xúc.
+
+Không được đặt lại tính liên tục.
+
+---
+
+# YÊU CẦU VỀ CẤU TRÚC PROMPT
+
+Mỗi prompt cho từng khung hình PHẢI tuân theo đúng thứ tự cấu trúc sau:
+
+1. ĐỊNH NGHĨA NHÂN VẬT
+2. VỊ TRÍ NHÂN VẬT
+3. HÀNH ĐỘNG CỦA NHÂN VẬT
+4. CĂNG THẲNG CẢM XÚC
+5. MÔI TRƯỜNG
+6. ÁNH SÁNG
+7. GÓC MÁY
+8. PHONG CÁCH ĐIỆN ẢNH
+9. CHẤT LƯỢNG KẾT XUẤT
+
+---
+
+# ĐỊNH DẠNG ĐỊNH NGHĨA NHÂN VẬT
+
+Mỗi phần định nghĩa nhân vật phải có dạng:
+
+"TÊN NHÂN VẬT, QUỐC GIA, giới tính, độ tuổi, cao 168cm, thân hình mảnh mai, khuôn mặt trái xoan, đường viền hàm sắc nét, làn da sáng với tông ấm, đôi mắt nâu sẫm hình hạnh nhân, mái tóc đen thẳng buộc lỏng phía sau vai, trang điểm công sở nhẹ nhàng, bông tai hoa sen bạc, áo khoác trench màu be mặc ngoài áo blouse lụa trắng, chân váy bút chì màu đen, biểu cảm kìm nén cảm xúc, bờ vai căng cứng, đôi mắt mệt mỏi, hai bàn tay hơi run"
+
+Mỗi phần định nghĩa nhân vật PHẢI ở dạng mô tả dài và cực kỳ chi tiết.
+
+---
+
+# PHẦN MÔ TẢ CẢNH ĐIỆN ẢNH
+
+Mô tả:
+
+- hành động chính xác
+- áp lực cảm xúc
+- chuyển động cơ thể
+- giao tiếp bằng ánh mắt
+- động lực căng thẳng
+- khoảng cách giữa các nhân vật
+- sự mất cân bằng trong bố cục hình ảnh
+- kể chuyện thông qua môi trường
+- các chi tiết hình ảnh mang tính biểu tượng
+- các hệ quả nhìn thấy được
+- hàm ý về chuyển động
+
+Các cảnh phải mang lại cảm giác:
+
+- năng động
+- cảm xúc bất ổn
+- sống động về mặt thể chất
+- mang tính điện ảnh trong cách kể chuyện
+
+Tránh:
+
+- tạo dáng tĩnh
+- bầu không khí trống rỗng
+- bố cục lặp đi lặp lại
+- khuôn mặt vô cảm
+
+---
+
+# QUY TẮC TÍNH LIÊN TỤC CỦA MÔI TRƯỜNG
+
+Môi trường phải phản ánh:
+
+- áp lực từ hệ thống
+- trạng thái cảm xúc
+- tiến trình câu chuyện
+- cấu trúc giai tầng
+- tính xác thực văn hóa
+- căng thẳng tâm lý
+
+Bao gồm:
+
+- kiến trúc
+- thời tiết
+- tình trạng căn phòng
+- sự bừa bộn thực tế
+- các hạt trong bầu không khí
+- sương mù
+- khói
+- mưa
+- bụi
+- tính biểu tượng của đồ vật
+- kết cấu bề mặt chân thực
+- chiều sâu điện ảnh
+
+Môi trường phải phát triển theo mức độ căng thẳng của câu chuyện.
+
+---
+
+# QUY TẮC ĐIỀU HƯỚNG GÓC MÁY
+
+Mọi prompt PHẢI bao gồm:
+
+- góc máy
+- tiêu cự
+- phong cách đóng khung hình
+- cảm giác chuyển động
+- bố cục mang tính điện ảnh
+
+Ví dụ:
+
+- cảnh quay cầm tay tạo cảm giác căng thẳng
+- bố cục qua vai
+- cận cảnh giàu cảm xúc
+- góc máy thấp thể hiện sự áp đảo
+- toàn cảnh thể hiện sự cô lập
+- khung hình bằng ống kính tele dài theo phong cách quan sát bí mật
+
+---
+
+# QUY TẮC TRỰC QUAN HÓA CẢM XÚC
+
+Cảm xúc phải được thể hiện bằng hình ảnh thông qua:
+
+- tư thế
+- đôi mắt
+- bàn tay
+- nhịp thở
+- khoảng cách giữa các cơ thể
+- sự do dự
+- độ căng của cơ bắp
+- sự mất cân bằng trong chuyển động
+- sự tương tác với môi trường
+
+KHÔNG giải thích cảm xúc theo cách trừu tượng.
+
+HÃY THỂ HIỆN cảm xúc bằng hình ảnh.
+
+---
+
+# KHÓA PHONG CÁCH ĐIỆN ẢNH
+
+TẤT CẢ các prompt PHẢI bao gồm:
+
+- tính hiện thực điện ảnh
+- siêu chi tiết
+- kết cấu da chân thực
+- giải phẫu cơ thể chân thực
+- ánh sáng kịch tính
+- ánh sáng thể tích
+- tính chân thực của nguồn sáng thực tế
+- hạt phim
+- độ sâu trường ảnh nông
+- bố cục điện ảnh
+- bóng đổ chân thực
+- cảm xúc chân thực
+- chất lượng như ảnh tĩnh trong phim
+- bầu không khí căng thẳng cao
+- độ chân thực 8K
+
+---
+
+# TỐI ƯU HÓA CHO VIỆC TẠO VIDEO
+
+Các prompt phải hoạt động tốt với:
+
+- Midjourney
+- Flux
+- Stable Diffusion
+- Sora
+- Runway
+- Kling
+- Pika
+
+Tránh:
+
+- cách diễn đạt mơ hồ
+- sự trừu tượng mang tính thi vị
+- tính mơ hồ mang tính biểu tượng
+- lời kể không trực quan bằng hình ảnh
+- mô tả không đầy đủ
+
+Mọi thứ phải có thể được kết xuất trực tiếp bằng hình ảnh.
+
+---
+
+# CHÍNH SÁCH AN TOÀN
+
+Tất cả các prompt và đầu ra được tạo ra PHẢI tuân thủ các quy định an toàn.
+
+---
+
+"CHÍNH_SÁCH_AN_TOÀN": {
+  "MÔ_TẢ": "Tất cả các prompt hình ảnh điện ảnh và đầu ra nội dung được tạo phải tuân thủ nghiêm ngặt các giới hạn an toàn và các quy định về những mục đích sử dụng bị cấm.",
+
+  "NỘI_DUNG_BỊ_CẤM": [
+    "xâm hại hoặc bóc lột tình dục trẻ em",
+    "hình ảnh thân mật không có sự đồng thuận",
+    "nội dung khiêu dâm mang tính tình dục",
+    "ảnh khỏa thân phản cảm",
+    "trẻ vị thành niên bị tình dục hóa",
+    "chủ nghĩa cực đoan bạo lực hoặc khủng bố",
+    "cảnh máu me phản cảm",
+    "khuyến khích tự gây hại",
+    "hướng dẫn thực hiện hoạt động bất hợp pháp",
+    "phát ngôn thù hận hoặc biểu tượng thù hận",
+    "hỗ trợ tạo phần mềm độc hại hoặc lừa đảo (phishing)",
+    "xâm phạm quyền riêng tư",
+    "hành vi lạm dụng mang tính bóc lột",
+    "mạo danh nhằm mục đích lừa dối"
+  ],
+
+  "HẠN_CHẾ_HÌNH_ẢNH": [
+    "Không có ảnh khỏa thân rõ ràng",
+    "Không có nội dung fetish",
+    "Không có bạo lực mang tính bóc lột",
+    "Không có hành vi cưỡng ép tình dục",
+    "Không có nội dung khiêu dâm deepfake",
+    "Không có nội dung tuyên truyền cực đoan",
+    "Không có hình ảnh cơ thể bị cắt xẻ hoặc biến dạng một cách đồ họa"
+  ],
+
+  "QUY_TẮC_AN_TOÀN_CHO_NHÂN_VẬT": [
+    "Tất cả nhân vật phải rõ ràng là người trưởng thành",
+    "Tránh ngoại hình có độ tuổi mơ hồ",
+    "Không tình dục hóa trạng thái say xỉn, sợ hãi, chấn thương hoặc sự dễ bị tổn thương"
+  ],
+
+  "THỰC_THI_PHONG_CÁCH": [
+    "Duy trì tính hiện thực vững chắc",
+    "Ưu tiên gợi ý thay vì mô tả trực tiếp các hình ảnh phản cảm",
+    "Căng thẳng cảm xúc phải mang tính điện ảnh và tâm lý, không mang tính bóc lột",
+    "Bạo lực phải được thể hiện có chừng mực và không mang tính phô trương"
+  ],
+
+  "HÀNH_VI_LỌC_NỘI_DUNG": {
+    "NẾU_PHÁT_HIỆN_RỦI_RO": [
+      "giảm mức độ mô tả chi tiết",
+      "thay thế hình ảnh phản cảm bằng sự gợi ý",
+      "tập trung vào bầu không khí và áp lực cảm xúc",
+      "loại bỏ cách dàn dựng mang tính bóc lột"
+    ]
+  }
+}
